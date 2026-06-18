@@ -19,6 +19,8 @@ JEI.removeAndHide(<thermalexpansion:augment:258>); # Pyrolytic Conversion
 JEI.removeAndHide(<thermalexpansion:augment:273>); # Tectonic Initiator
 JEI.removeAndHide(<thermalexpansion:augment:257>); # Flux Anodizers
 JEI.removeAndHide(<thermalexpansion:augment:303>); # Metallurgical Recovery
+JEI.removeAndHide(<energycontrol:item_component:1>); # EnergyControl->Basic Circuit
+JEI.removeAndHide(<energycontrol:item_component>); # EnergyControl->Advanced Circuit
 
 var carbonDusts = [
     <thermalfoundation:material:768>, # TE Pulverized Coal
