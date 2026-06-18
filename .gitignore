@@ -8,6 +8,10 @@
 !/LICENSE
 !/docs/
 !/docs/**
+!/server/
+!/server/**
+!/tools/
+!/tools/**
 
 # CraftTweaker scripts
 !/scripts/
@@ -77,6 +81,8 @@
 # Never track mods or runtime data
 /mods/
 /mods/**
+/world/
+/world/**
 /saves/
 /backups/
 /logs/
@@ -103,6 +109,11 @@
 /hei_bookmarks.ini
 /jei_bookmarks.ini
 /patchouli_data.json
+/server.properties
+/ops.json
+/whitelist.json
+/banned-players.json
+/banned-ips.json
 
 # Logs/caches anywhere
 *.log
