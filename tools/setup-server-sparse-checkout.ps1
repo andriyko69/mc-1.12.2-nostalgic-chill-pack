@@ -41,13 +41,8 @@ Write-Host "Using branch: $Branch"
 git branch -M $Branch
 
 Write-Host "Setting origin remote..."
-$originExists = $true
-git remote get-url origin *> $null
-if ($LASTEXITCODE -ne 0) {
-    $originExists = $false
-}
-
-if ($originExists) {
+$remotes = @(git remote)
+if ($remotes -contains "origin") {
     git remote set-url origin $RemoteUrl
 } else {
     git remote add origin $RemoteUrl
