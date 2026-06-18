@@ -1,0 +1,89 @@
+# Mod List
+
+* [AE2 Stuff](https://www.curseforge.com/projects/225194) [0.7.0.4] by bdew
+* [AE2 Unofficial Extended Life](https://www.curseforge.com/projects/570458) [v0.56.7] by NotMyWing, Serenibyss, PrototypeTrousers, AlgorithmX2, contributors <3
+* AdvSolarPatch-1.2.1
+* [Advanced Generators](https://www.curseforge.com/projects/223622) [0.9.20.12] by bdew
+* [Advanced Solar Panels](https://www.curseforge.com/projects/252714) [4.3.0] by Icedfire, SeNtiMeL, Chocohead
+* [Alfheim](https://modrinth.com/mod/srzJgOEn) [1.6] by Red Studio
+* [BD Lib](https://www.curseforge.com/projects/70496) [1.14.4.1] by bdew
+* [Brandon's Core](https://modrinth.com/mod/iFDWVIFV) [1.12.2-2.4.20.22] by brandon3055
+* [BuildCraft Lib](https://modrinth.com/mod/6X5wjPTJ) [8.0.0] by SpaceToad, BuildCraft Team
+* [CTM](https://www.curseforge.com/projects/267602) [MC1.12.2-1.0.2.31] by tterrag, Drullkus, minecreatr
+* [Carbon Config Library](https://modrinth.com/mod/1jDdpgcc) [${version}] by Meduris, Speiger
+* [CoFH Core](https://www.curseforge.com/projects/69162) [4.6.6.1] by Team CoFH
+* [CoFH World](https://www.curseforge.com/projects/271384) [1.4.0.1] by Team CoFH
+* [CodeChicken Lib](https://modrinth.com/mod/2gq0ALnz) [3.2.3.358] by ChickenBones, covers1624
+* [ConfigAnytime](https://modrinth.com/mod/Bnsrfd1o) [3.0] by CleanroomMC
+* [CraftTweaker2](https://modrinth.com/mod/Xg35A4rS) [1.12-4.1.20.698] by StanHebben, Jaredlll08
+* [Draconic Evolution](https://modrinth.com/mod/nBqivi8H) [1.12.2-2.3.28.193] by brandon3055
+* [Energy Control](https://www.curseforge.com/minecraft/mc-mods/energy-control) [1.12.2-0.3.2] by Shedar, xbony2, Zuxelus, DMF444
+* [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.6.3] by tr7zw
+* [FTB Backups](https://www.curseforge.com/projects/314904) [1.1.0.1] by LatvianModder
+* [FastQuit](https://modrinth.com/mod/itFaO2Tg) [3.0.1+1.12.2forge] by KingContaria, KalebLangley
+* [FermiumASM](https://modrinth.com/mod/LnSdxRsG) [5.31] by Rongmario, mirrorcult, skmedix, fonnymunkey
+* [FermiumBooter](https://modrinth.com/mod/e00stJKZ) [1.4.1] by fonnymunkey
+* [FermiumMixins](https://modrinth.com/mod/rv2W9b0O) [1.0.13] by fonnymunkey
+* [Fixeroo](https://www.curseforge.com/projects/633806) [2.3.7] by Surreal
+* [Fogger](https://www.curseforge.com/projects/449209) [1.12.2-1.1.2.0] by dotBlueShoes
+* [Forced Resourcepacks](https://www.curseforge.com/projects/997732) [${version}] by SeriousCreeper
+* [Forestry](https://modrinth.com/mod/MHni9gjy) [5.8.2.427] by SirSengir, mezz
+* [Forgelin-Continuous](https://modrinth.com/mod/1mPcAmuy) [2.3.10.0] by ChAoS_UnItY
+* [Fugue](https://modrinth.com/mod/vylTACsh) [0.23.6] by kappa_maintainer
+* [Gnetum](https://modrinth.com/mod/7MoE34WK) [1.4.3] by decce
+* [Gravitation Suite](https://www.curseforge.com/projects/253590) [3.1.1] by SeNtiMeL, Chocohead
+* [Gravitation Suite Patcher](https://www.curseforge.com/projects/501574) [1.0.0] by Su5eD
+* [Had Enough Items](https://www.curseforge.com/projects/557549) [4.31.2] by mezz, Rongmario
+* [IC2 Patcher](https://www.curseforge.com/projects/456402) [2.0.13] by Su5eD, Kanzaji
+* [IC2 Tweaker](https://www.curseforge.com/projects/311846) [0.2.1+build.4] by 3TUSK
+* [Improved Relauncher](https://modrinth.com/mod/RPniVkER) [0.3.8] by Golem
+* [Industrial Foregoing](https://modrinth.com/mod/lWxpUd04) [1.12.13] by Buuz135
+* [IndustrialCraft 2](https://modrinth.com/mod/wTncj5gs) [2.8.222-ex112] by Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44, Aroma1997, estebes, Chocohead
+* [Inventory Tweaks](https://www.curseforge.com/projects/223094) [1.64+dev.151.822d839] by Jimeo Wan, Kobata
+* [Iron Chest](https://www.curseforge.com/projects/228756) [1.12.2-7.0.67.844] by cpw
+* [JEI Area Fixer](https://www.curseforge.com/projects/1085598) [8149059]
+* [JourneyMap](https://modrinth.com/mod/lfHFW1mp) [1.12.2-5.7.1p3] by techbrew, mysticdrew
+* [LibrarianLib-Continuous](https://modrinth.com/mod/ZJbjfW95) [4.22-2.0-3] by thecodewarrior, wiresegal, LordSaad44, Elucent, Eladkay, murapix, werty1124, Leviathan143, CaliforniaDemise, ChAoSUnItY
+* [MTLib](https://modrinth.com/mod/vtzPfzFT) [3.0.7] by Jaredlll08
+* [MixinBooter](https://modrinth.com/mod/G1ckZuWK) [10.7] by Rongmario
+* [MixinBootstrap](https://modrinth.com/mod/6a16628x) [hOGSWOX8]
+* [Mod Tweaker](https://modrinth.com/mod/7ZsHKFX3) [4.0.20.11] by Jaredlll08
+* [MoreTweaker](https://www.curseforge.com/projects/336569) [1.0.19] by noeppi_noeppi
+* [Mouse Tweaks Unofficial](https://www.curseforge.com/projects/461660) [3.1.5] by CleanroomMC, serenibyss, YaLTeR
+* [Naughthirium](https://www.curseforge.com/projects/1153019) [2.3.0] by Rongmario
+* [NoiseThreader](https://www.curseforge.com/projects/1153744) [1.1.3] by fonnymunkey
+* [Nothirium](https://www.curseforge.com/projects/624960) [0.4.9-beta] by Meldexun
+* [OptiFine CIT Patch](https://www.curseforge.com/projects/1231319) [1.0.5] by Nischhelm
+* OptiFine_1.12.2_HD_U_G5
+* [OptiNotFine](https://www.curseforge.com/projects/1409147) [1.0] by Luna Mira Lage (Desoroxxx)
+* [PaperFixes](https://www.curseforge.com/projects/961366) [2.0.1] by Elephant_1214
+* [Particle Culling](https://modrinth.com/mod/l7imhLoC) [1.12.2-v1.4.3] by bl4ckscor3
+* [Patchouli](https://modrinth.com/mod/nU0bVIaL) [1.0-23.6] by Vazkii
+* [Railcraft](https://www.curseforge.com/projects/51195) [12.1.0-beta-8] by CovertJaguar
+* [Railway Depot Worker](https://www.curseforge.com/projects/1031521) [7815628]
+* [Reach Fix](https://www.curseforge.com/projects/556777) [1.1.3] by Meldexun
+* [Rebind Narrator](https://www.curseforge.com/projects/296996) [1.0] by quaternary
+* [Red Core](https://modrinth.com/mod/iRzbJEus) [0.7.1] by Red Studio
+* [Redstone Flux](https://www.curseforge.com/projects/270789) [2.1.1.1] by Team CoFH
+* [RenderLib](https://www.curseforge.com/projects/624967) [1.4.5] by Meldexun
+* [RoughlyEnoughIDs](https://www.curseforge.com/projects/629017) [2.3.1] by ChaosStrikez, Exsolutus, ACGaming, Lily, Runemoro, ZombieHDGaming
+* [Scalar Legacy](https://www.curseforge.com/projects/1235372) [1.0.0] by CleanroomMC, kappa_maintainer
+* [SerializationIsBad](https://www.curseforge.com/projects/896591) [5187152]
+* [Sledgehammer](https://modrinth.com/mod/QItC3hpi) [1.12.2-2.0.26] by LX_Gaming
+* [SnowVillage](https://www.curseforge.com/projects/283309) [1.12.2-1.0.0] by svenhjol
+* [Stellar Core](https://www.curseforge.com/projects/1064321) [1.5.22] by Kasumi_Nova
+* [Tesla Core Lib](https://www.curseforge.com/projects/254602) [1.12.2-1.0.18] by Face_of_Cat
+* [The Twilight Forest](https://www.curseforge.com/projects/227639) [3.11.1021] by Benimatic, AtomicBlom, Drullkus, Killer_Demon, quadraxis, Tamaized, williewillus
+* [Thermal Dynamics](https://www.curseforge.com/projects/227443) [2.5.6.1] by Team CoFH
+* [Thermal Expansion](https://www.curseforge.com/projects/69163) [5.5.7.1] by Team CoFH
+* [Thermal Foundation](https://www.curseforge.com/projects/222880) [2.6.7.1] by Team CoFH
+* [Traverse](https://modrinth.com/mod/Kgt52DeK) [1.12.2-1.6.0-69] by Prospector
+* [Twilight Forest Fixes](https://modrinth.com/mod/zYUO2EnY) [1.0] by Henrykado, XemnesXIII
+* [UniDict](https://modrinth.com/mod/deXLECwV) [1.12.2-3.0.10] by WanionCane, ElektroKill
+* [Universal Tweaks](https://www.curseforge.com/projects/705000) [1.20.1] by ACGaming
+* [VintageFix](https://modrinth.com/mod/e6vNsbAm) [0.7.0] by embeddedt
+* [Waila](https://modrinth.com/mod/kr1RaEqy) [1.8.26] by ProfMobius, TehNut
+* [Waila Harvestability](https://www.curseforge.com/projects/79287) [1.1.12] by squeek
+* [WanionLib](https://modrinth.com/mod/U90pf4L4) [1.12.2-2.91] by WanionCane
+* [ZenRecipeReloading](https://www.curseforge.com/projects/911152) [1.4.5] by youyihj
+* [ZenUtils](https://www.curseforge.com/projects/401178) [1.27.3] by youyihj

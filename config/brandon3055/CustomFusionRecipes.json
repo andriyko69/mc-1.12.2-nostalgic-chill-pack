@@ -1,0 +1,337 @@
+[
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:wyvern_pick"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:wyvern_sword"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:wyvern_axe"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:wyvern_shovel"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:draconic_pick"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots"
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_bow",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionBow",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_pick",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionDiamondDrill",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_sword",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionNanoSaber",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_shovel",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionIc2Drill",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_axe",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionIc2Chainsaw",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:draconium_ingot",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_pick",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionIridiumDrill",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_axe",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionAdvancedChainsaw",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_shovel",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:wyvern_shovel",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_sword",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "draconicevolution:wyvern_sword",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_staff_of_power",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 50000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionInfinityDrill",
+            "draconicevolution:draconic_pick",
+            "draconicevolution:draconic_sword",
+            "draconicevolution:draconic_shovel",
+            "draconicevolution:draconic_axe",
+            "ore:progressionVajra",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_chest",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionNanoChestplate",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_helm",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionNanoHelmet",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_legs",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionNanoLeggings",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:wyvern_boots",
+        "catalyst": "draconicevolution:wyvern_core",
+        "energy": 2000000,
+        "tier": 1,
+        "ingredients": [
+            "ore:progressionNanoBoots",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "ore:ingotDraconium",
+            "draconicevolution:wyvern_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionGraviChestplate",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionQuantumHelmet",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionQuantumLeggings",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:awakened_core",
+        "energy": 20000000,
+        "tier": 2,
+        "ingredients": [
+            "ore:progressionQuantumBoots",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "ore:ingotDraconiumAwakened",
+            "draconicevolution:draconic_energy_core"
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+# Ignore everything by default
+/*
+
+# Repo files
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/LICENSE
+!/docs/
+!/docs/**
+
+# CraftTweaker scripts
+!/scripts/
+!/scripts/**
+
+# Required/custom resource packs
+!/resourcepacks/
+!/resourcepacks/**
+
+# Selected config parent folders
+!/config/
+/config/*
+
+# BuildCraft
+!/config/buildcraft/
+/config/buildcraft/*
+!/config/buildcraft/main.cfg
+!/config/buildcraft/objects.cfg
+
+# Root config files
+!/config/IC2.ini
+!/config/ftbbackups.cfg
+!/config/Universal Tweaks - Bugfixes.cfg
+!/config/Universal Tweaks - General.cfg
+!/config/Universal Tweaks - Mod Integration.cfg
+!/config/Universal Tweaks - Tweaks.cfg
+!/config/sledgehammer.conf
+!/config/fogger.cfg
+!/config/getittogetherdrops.cfg
+!/config/forcedresourcepacks.cfg
+
+# Brandon3055 / Draconic Evolution custom fusion
+!/config/brandon3055/
+/config/brandon3055/*
+!/config/brandon3055/CustomFusionRecipes.json
+
+# CoFH worldgen and custom Thermal content
+!/config/cofh/
+/config/cofh/*
+!/config/cofh/world/
+/config/cofh/world/*
+!/config/cofh/world/01_thermalfoundation_ores.json
+!/config/cofh/thermalexpansion/
+/config/cofh/thermalexpansion/*
+!/config/cofh/thermalexpansion/content/
+/config/cofh/thermalexpansion/content/*
+!/config/cofh/thermalexpansion/content/progression_smelter_removals.json
+
+# Forestry
+!/config/forestry/
+/config/forestry/*
+!/config/forestry/common.cfg
+
+# Railcraft
+!/config/railcraft/
+/config/railcraft/*
+!/config/railcraft/railcraft.cfg
+!/config/railcraft/ores/
+/config/railcraft/ores/*
+!/config/railcraft/ores/*.cfg
+
+# UniDict
+!/config/unidict/
+/config/unidict/*
+!/config/unidict/UniDict.cfg
+
+# Never track mods or runtime data
+/mods/
+/mods/**
+/saves/
+/backups/
+/logs/
+/crash-reports/
+/screenshots/
+/journeymap/
+/server-resource-packs/
+/local/
+/coremods/
+/shaderpacks/
+/snapshots-server/
+/texturepacks/
+/vintagefix/
+/xaero/
+
+# User/launcher-specific files
+/options.txt
+/optionsof.txt
+/servers.dat
+/usernamecache.json
+/usercache.json
+/realms_persistence.json
+/launcher_profiles.json
+/hei_bookmarks.ini
+/jei_bookmarks.ini
+/patchouli_data.json
+
+# Logs/caches anywhere
+*.log
+*.log.gz
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

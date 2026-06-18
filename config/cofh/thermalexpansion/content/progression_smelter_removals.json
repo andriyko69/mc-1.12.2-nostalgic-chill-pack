@@ -1,0 +1,56 @@
+{
+  "smelter": [
+    { "input": { "ore": "oreIron" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreIron" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreIron" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreGold" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreGold" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreGold" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreCopper" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreCopper" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreCopper" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreTin" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreTin" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreTin" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreSilver" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreSilver" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreSilver" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreLead" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreLead" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreLead" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreAluminum" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreAluminum" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreAluminum" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreNickel" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreNickel" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreNickel" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "orePlatinum" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "orePlatinum" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "orePlatinum" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreIridium" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreIridium" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreIridium" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreMithril" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreMithril" }, "input2": { "ore": "crystalSlagRich" }, "remove": true },
+    { "input": { "ore": "oreMithril" }, "input2": { "ore": "crystalCinnabar" }, "remove": true },
+
+    { "input": { "ore": "oreLapis" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreRedstone" }, "input2": { "ore": "sand" }, "remove": true },
+    { "input": { "ore": "oreQuartz" }, "input2": { "ore": "sand" }, "remove": true },
+
+    { "input": { "ore": "dustCopper" }, "input2": { "ore": "dustTin" }, "remove": true },
+    { "input": { "ore": "dustCopper" }, "input2": { "ore": "ingotTin" }, "remove": true },
+    { "input": { "ore": "ingotCopper" }, "input2": { "ore": "dustTin" }, "remove": true },
+    { "input": { "ore": "ingotCopper" }, "input2": { "ore": "ingotTin" }, "remove": true }
+  ]
+}
