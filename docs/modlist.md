@@ -19,6 +19,7 @@
 - [Draconic Evolution](https://modrinth.com/mod/nBqivi8H) [1.12.2-2.3.28.193] by brandon3055
 - [Energy Control](https://www.curseforge.com/minecraft/mc-mods/energy-control) [1.12.2-0.3.2] by Shedar, xbony2, Zuxelus, DMF444
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1.6.3] by tr7zw
+- [FPS Reducer](https://modrinth.com/mod/iZ10HXDj) [mc1\.12\.2\-1\.20] by bre2el
 - [FTB Backups](https://www.curseforge.com/projects/314904) [1.1.0.1] by LatvianModder
 - [FastQuit](https://modrinth.com/mod/itFaO2Tg) [3.0.1+1.12.2forge] by KingContaria, KalebLangley
 - [FermiumASM](https://modrinth.com/mod/LnSdxRsG) [5.31] by Rongmario, mirrorcult, skmedix, fonnymunkey
