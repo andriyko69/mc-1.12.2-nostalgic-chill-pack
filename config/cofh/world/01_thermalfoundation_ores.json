@@ -92,11 +92,11 @@
 					}
 				],
 				"material": "minecraft:stone",
-				"cluster-size": 8
+				"cluster-size": 6
 			},
-			"cluster-count": 4,
+			"cluster-count": 2,
 			"min-height": 5,
-			"max-height": 30,
+			"max-height": 32,
 			"retrogen": "true",
 			"biome": "all",
 			"dimension": {
@@ -168,7 +168,7 @@
 			}
 		},
 		"platinum": {
-			"enabled": "true",
+			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": [

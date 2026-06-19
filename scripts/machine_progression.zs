@@ -3,6 +3,7 @@ import mods.ic2.Macerator;
 import mods.jei.JEI;
 import moretweaker.railcraft.RollingMachine;
 import mods.thermalexpansion.InductionSmelter;
+import mods.energycontrol.KitAssembler;
 
 JEI.removeAndHide(<thermalexpansion:machine:1>); # Pulverizer
 JEI.removeAndHide(<thermalexpansion:machine:0>); # Redstone Furnace
@@ -19,8 +20,11 @@ JEI.removeAndHide(<thermalexpansion:augment:258>); # Pyrolytic Conversion
 JEI.removeAndHide(<thermalexpansion:augment:273>); # Tectonic Initiator
 JEI.removeAndHide(<thermalexpansion:augment:257>); # Flux Anodizers
 JEI.removeAndHide(<thermalexpansion:augment:303>); # Metallurgical Recovery
-JEI.removeAndHide(<energycontrol:item_component:1>); # EnergyControl->Basic Circuit
-JEI.removeAndHide(<energycontrol:item_component>); # EnergyControl->Advanced Circuit
+
+KitAssembler.removeRecipe(<minecraft:redstone> * 2, <minecraft:iron_ingot>, <minecraft:flint>); # EnergyControl->Basic Circuit
+KitAssembler.removeRecipe(<minecraft:redstone> * 2, <minecraft:gold_ingot>, <energycontrol:item_component:1>); # EnergyControl->Advanced Circuit
+JEI.hide(<energycontrol:item_component:1>); # EnergyControl->Basic Circuit
+JEI.hide(<energycontrol:item_component>); # EnergyControl->Advanced Circuit
 
 var carbonDusts = [
     <thermalfoundation:material:768>, # TE Pulverized Coal
