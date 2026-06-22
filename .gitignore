@@ -43,6 +43,11 @@
 !/config/getittogetherdrops.cfg
 !/config/forcedresourcepacks.cfg
 
+# Applied Energistics 2
+!/config/AppliedEnergistics2/
+/config/AppliedEnergistics2/*
+!/config/AppliedEnergistics2/AppliedEnergistics2.cfg
+
 # Brandon3055 / Draconic Evolution custom fusion
 !/config/brandon3055/
 /config/brandon3055/*

@@ -12,7 +12,7 @@ var transferEnchants as IRecipeFunction = function(out, ins, cInfo) {
     if (key != "" && ins[key].hasTag && ins[key].tag has "ench") {
         return out.withTag({ench: ins[key].tag.ench});
     }
-    return out; 
+    return out;
 };
 
 recipes.remove(<draconicevolution:wyvern_pick>);
