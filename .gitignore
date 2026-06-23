@@ -59,6 +59,7 @@
 !/config/cofh/world/
 /config/cofh/world/*
 !/config/cofh/world/01_thermalfoundation_ores.json
+!/config/cofh/world/00_minecraft.json
 !/config/cofh/thermalexpansion/
 /config/cofh/thermalexpansion/*
 !/config/cofh/thermalexpansion/content/
