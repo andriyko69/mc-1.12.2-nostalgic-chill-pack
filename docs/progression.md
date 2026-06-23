@@ -14,6 +14,12 @@ This pack aims for a nostalgic, chill Minecraft 1.12.2 tech progression.
 - Silver is a rare worldgen metal. It also appears as a small IC2 gold ore processing byproduct, so gold processing is a useful bonus path rather than the only source of silver.
 - Platinum is not intended as a mining path. The intended route is Molecular Transformer gold to platinum; platinum ingots and derived materials remain usable.
 
+## Tools
+
+- Mining tools flow from IC2 Mining Drill to IC2 Diamond Drill, GraviSuite Advanced Drill, IC2 Iridium Drill, Wyvern Pickaxe, and Draconic Pickaxe.
+- Axe/tree tools flow from IC2 Chainsaw to GraviSuite Advanced Chainsaw, Wyvern Axe, and Draconic Axe.
+- Vajra remains a late IC2/GraviSuite hybrid tool requiring Iridium Drill, Advanced Chainsaw, Advanced Drill, and a Wyvern Core.
+
 ## Ore Processing
 
 - The IC2 Macerator is the intended first ore-doubling and dust-processing machine.

@@ -8,6 +8,8 @@
 <ore:progressionNanoSaber>.add(<ic2:nano_saber:32767>);
 <ore:progressionIridiumDrill>.add(<ic2:iridium_drill:32767>);
 <ore:progressionAdvancedChainsaw>.add(<gravisuite:advancedchainsaw:32767>);
+<ore:progressionWyvernPick>.add(<draconicevolution:wyvern_pick:32767>);
+<ore:progressionWyvernAxe>.add(<draconicevolution:wyvern_axe:32767>);
 <ore:progressionVajra>.add(<gravisuite:vajra:32767>);
 <ore:progressionInfinityDrill>.add(<industrialforegoing:infinity_drill:32767>);
 
