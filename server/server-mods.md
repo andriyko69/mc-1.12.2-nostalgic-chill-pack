@@ -29,9 +29,10 @@ fermiumasm-5.31.jar
 FermiumMixins-1.0.13.jar
 Fixeroo-2.3.7.jar
 forestry_1.12.2-5.8.2.427.jar
-Forgelin-Continuous-2.3.20.0.jar
+Forgelin-Continuous-2.4.0.0.jar
 FTBBackups-1.1.0.1.jar
 generators-0.9.20.12-mc1.12.2.jar
+graviflyfix-1.2.jar
 GraviSuite-Patcher-1.0.0.jar
 Gravitation Suite-3.1.1.jar
 HadEnoughItems_1.12.2-4.31.2.jar
@@ -74,4 +75,6 @@ UniversalTweaks-1.12.2-1.20.1.jar
 vintagefix-0.7.0.jar
 WailaHarvestability-mc1.12-1.1.12.jar
 WanionLib-1.12.2-2.91.jar
+zenutils-1.27.4.jar
+zenrecipereloading-1.4.5.jar
 ```
